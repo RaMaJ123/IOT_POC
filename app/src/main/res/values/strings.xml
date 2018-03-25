@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IOT_POC</string>
+    <string name="face_count">Face Count:</string>
+</resources>

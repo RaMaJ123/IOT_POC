@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "25819037980",
+    "firebase_url": "https://facerecogpoc.firebaseio.com",
+    "project_id": "facerecogpoc",
+    "storage_bucket": "facerecogpoc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25819037980:android:f19751aa9dd3167b",
+        "android_client_info": {
+          "package_name": "com.example.ramjiseetharaman.facerecogpoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25819037980-jq8eup10gqu22diam892hgsfmgha1m89.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxmfQEBzTR478lluwKSMk8a0w7C0THPc4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
